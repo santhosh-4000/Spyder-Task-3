@@ -7,6 +7,7 @@
 //*sort res in decreasing order
 //*repeat this process m-n times
 // res[n-1] will be result
+//Greedy approach
 
 #include<bits/stdc++.h>
 using namespace std;
